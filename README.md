@@ -1,2 +1,2 @@
 # ft_printf
-Implémentation de la fonction printf présente dans la libc
+This goal of this project is to get familiar with variadic functions.
